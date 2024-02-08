@@ -5,11 +5,11 @@ The sales director, of AtliQ Hardware which is a chain of the company that has v
 
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
-"*" Revenue breakdown by cities.
-"*" Revenue brekdown by years & months.
-"*" Top 5 customers by revenue & sales quantity.
-"*" Top 5 Products by revenue.
-"*" Net Profit & Profit Margin by Market
+* Revenue breakdown by cities.
+* Revenue brekdown by years & months.
+* Top 5 customers by revenue & sales quantity.
+* Top 5 Products by revenue.
+* Net Profit & Profit Margin by Market
 
 # Approach - Project Planning & Aims Grid
 Aims Grid: 
